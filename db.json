@@ -1,0 +1,90 @@
+{
+  "users": [
+    {
+      "id": "8493",
+      "name": "akshay",
+      "email": "akshay@gmail.com",
+      "password": "1234",
+      "cpassword": "1234",
+      "mobile": "1212121212"
+    },
+    {
+      "id": "88f1",
+      "name": "Abstract",
+      "email": "abstract@gmail.com",
+      "password": "123456",
+      "cpassword": "123456",
+      "mobile": "0123456789"
+    },
+    {
+      "id": "1f05",
+      "name": "abc",
+      "email": "abc@gmail.com",
+      "password": "123456",
+      "cpassword": "123456",
+      "mobile": "1212121212"
+    }
+  ],
+  "faculties": [
+    {
+      "id": "a3e6",
+      "record": {
+        "name": "Akshay",
+        "email": "akshay@gmail.com",
+        "mobile": "9090878790",
+        "subject": "Javascript",
+        "batch": "12-02",
+        "qualification": "M.Tech",
+        "branch": "Computer Science"
+      }
+    },
+    {
+      "record": {
+        "name": "Ayushman Kumar",
+        "email": "ayu@gmail.com",
+        "mobile": "8989898989",
+        "subject": "Java",
+        "batch": "10-12",
+        "qualification": "M.Tech",
+        "branch": "CS_IT"
+      },
+      "id": "9e35"
+    },
+    {
+      "id": "db39",
+      "record": {
+        "name": "Hrithik",
+        "email": "hrithik@gmail.com",
+        "mobile": "7905382371",
+        "subject": "HTML",
+        "batch": "10-12",
+        "qualification": "M.Sc",
+        "branch": "Engineering"
+      }
+    },
+    {
+      "id": "e18a",
+      "record": {
+        "name": "Bumrah",
+        "email": "bumrah@gmail.com",
+        "mobile": "1234123412",
+        "subject": "Python",
+        "batch": "5-7",
+        "qualification": "M.Tech",
+        "branch": "Computer Science"
+      }
+    },
+    {
+      "id": "27be",
+      "record": {
+        "name": "Sachin",
+        "email": "sachin@gmail.com",
+        "mobile": "1010101010",
+        "subject": "ReactJS",
+        "batch": "3-5",
+        "qualification": "MCA",
+        "branch": "Information Technology"
+      }
+    }
+  ]
+}
