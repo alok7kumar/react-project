@@ -36,11 +36,11 @@ This is an online shopping web app built with React.js. The app includes various
 
 1. Clone the repository:
 
-   git clone https://github.com/yourusername/online-shopping-web-app.git
+   git clone https://github.com/alok7kumar/E-Commerce_ReactJS-project
 
 2. Navigate to the project directory:
 
-   cd online-shopping-web-app
+   cd E-Commerce_ReactJS-project
 
 3. Install dependencies:
     
