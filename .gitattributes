@@ -1,0 +1,11 @@
+# Prioritize React (JavaScript or TypeScript)
+*.jsx linguist-detectable=true
+*.tsx linguist-detectable=true
+
+# Ignore styling and static files from language stats
+*.html linguist-detectable=false
+*.css linguist-detectable=false
+*.scss linguist-detectable=false
+*.json linguist-detectable=false
+*.png linguist-detectable=false
+*.jpg linguist-detectable=false
